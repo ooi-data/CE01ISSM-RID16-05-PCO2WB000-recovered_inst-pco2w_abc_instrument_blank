@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-RID16-05-PCO2WB000-recovered_inst-pco2w_abc_instrument_blank
-last_request: '2022-01-01T02:32:36.810070Z'
+last_request: '2022-01-21T01:50:35.968968Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-RID16-05-PCO2WB000-recovered_inst-pco2w_abc_instrument_blank/main/history/response.json
-status: success
+status: pending
